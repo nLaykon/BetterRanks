@@ -1,0 +1,18 @@
+server:
+  dataLoadedMessage: "Data Loaded!"
+
+Ranks:
+  #Rank Values
+  # prefix (String) // Not-Required // Sets the prefix of a rank, Example "&8[&7MyRank&8]"
+
+
+  #Example Ranks
+  Rookie:
+    prefix: '&8[&7Rookie&8]'
+  Developer:
+    prefix: '&d[&cDev&d]'
+    autoOp: true
+
+Player Data:
+  xxxx:
+    rank: Rookie

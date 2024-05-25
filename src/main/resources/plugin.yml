@@ -1,0 +1,4 @@
+name: BetterRanks
+version: '${project.version}'
+main: org.laykon.betterranks.BetterRanks
+api-version: '1.20'
